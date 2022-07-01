@@ -1,6 +1,6 @@
  :wave:	Hi, I'm Bishow, and welcome to my GitHub bio.
 - :telescope: Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at NHDP.
-- :seedling: I’m currently learning blockchain technology.
+- :seedling: I’m currently learning MERN stack.
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ShahBishow)
